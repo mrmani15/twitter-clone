@@ -1,8 +1,26 @@
-*{
-  font-family: sans-serif;
+* {
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
 }
-.landing-image{
-  height: 400px;
-  width: 400px;
-  background-color: #71c9f8;
+
+.btn-bg {
+	background-color: #1da1f2;
+	width: 100%;
+}
+.btn-border {
+	border: 1px solid #1da1f2;
+	width: 100%;
+	color: #1da1f2;
+}
+
+.login-signup {
+	height: 90vh;
+	margin: 0 20%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.navigation-link :hover{
+  background-color: #1da1f2;
 }
