@@ -21,28 +21,33 @@
 	flex-direction: column;
 	justify-content: center;
 }
-.navigation-link :hover{
-  background-color: #1da1f2;
+.navigation-link :hover {
+	background-color: #1da1f2;
 }
-.logo-image{
-  border-radius: 50%;
-  width: 50px;
+.logo-image {
+	border-radius: 50%;
+	width: 50px;
 }
-.covid-logo{
-  border-radius: 30%;
+.covid-logo {
+	border-radius: 30%;
 }
-.home-container{
-  /* width: 100%; */
-  margin: 0 10%;
+.home-container {
+	/* width: 100%; */
+	margin: 0 10%;
 }
-.prime-text{
-  color: #1da1f2;
+.prime-text {
+	color: #1da1f2;
 }
-.btn-follow{
-
-  border: 2px solid #1da1f2;
-  color: #1da1f2;
+.btn-follow {
+	border: 2px solid #1da1f2;
+	color: #1da1f2;
 }
-.b-top{
-  border-top: 1px solid #dcdfe1;
+.b-top {
+	border-top: 1px solid #dcdfe1;
+}
+.search-input {
+	border: 0;
+	border-radius: 30%;
+	background-color: #e6ecf0;
+	width: auto;
 }

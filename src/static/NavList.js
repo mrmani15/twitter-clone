@@ -3,9 +3,12 @@ import React from 'react';
 import { BiHomeCircle, BiEnvelope, BiBookmark } from 'react-icons/bi';
 import { FiHash } from 'react-icons/fi'
 import { GrNotification } from 'react-icons/gr'
-import { IoMdListBox } from 'react-icons/io'
+import { IoMdListBox, IoIosStats } from 'react-icons/io'
 import { HiOutlineUser } from "react-icons/hi";
 import { CgMoreO } from 'react-icons/cg'
+import { AiOutlineGif, AiOutlineCalendar } from "react-icons/ai";
+import { BsImage } from 'react-icons/bs'
+import { VscSmiley } from "react-icons/vsc";
 
 export const NavList = [
   { icon: <BiHomeCircle size='1.7rem' className='mr-3' />, nav: 'Home' },
@@ -17,3 +20,7 @@ export const NavList = [
   { icon: <HiOutlineUser size='1.7rem' className='mr-3' />, nav: 'Profile' },
   { icon: <CgMoreO size='1.7rem' className='mr-3' />, nav: 'More' }
 ]
+
+
+export const TweetIcon = 
+  [<BsImage color='#1da1f2' size='1.5rem' />, <AiOutlineGif color='#1da1f2' size='1.5rem' />, <IoIosStats color='#1da1f2' size='1.5rem' />, <VscSmiley color='#1da1f2' size='1.5rem' />, <AiOutlineCalendar color='#1da1f2' size='1.5rem' />]

@@ -4,7 +4,10 @@ import { CgArrowTopRightR } from 'react-icons/cg';
 
 function Happening() {
 	return (
-		<div className='p-3' style={{ backgroundColor: '#f5f8fa', borderRadius: '5%'}}>
+		<div
+			className='p-3'
+			style={{ backgroundColor: '#f5f8fa', borderRadius: '5%' }}
+		>
 			<hr />
 			<div className='d-flex justify-content-between p-1'>
 				<div>
