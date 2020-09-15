@@ -64,3 +64,11 @@
   width: 50vw;
   margin-left: 25%;
 }
+.font-size{
+  font-size: large;
+  font-weight: bolder;
+}
+.font-size :hover{
+  background-color: #afcad2;
+  color: #1da1f2;
+}

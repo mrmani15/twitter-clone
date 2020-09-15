@@ -23,4 +23,9 @@ export const NavList = [
 
 
 export const TweetIcon = 
-  [<BsImage color='#1da1f2' size='1.5rem' />, <AiOutlineGif color='#1da1f2' size='1.5rem' />, <IoIosStats color='#1da1f2' size='1.5rem' />, <VscSmiley color='#1da1f2' size='1.5rem' />, <AiOutlineCalendar color='#1da1f2' size='1.5rem' />]
+  [<BsImage color='#1da1f2' size='1.5rem' />, <AiOutlineGif color='#1da1f2' size='1.5rem' />, <IoIosStats color='#1da1f2' size='1.5rem' />, <VscSmiley color='#1da1f2' size='1.5rem' />, <AiOutlineCalendar color='#1da1f2' size='1.5rem' />];
+
+
+export const NoticeNav = ['All', 'Mention']
+
+export const ProNav = ['Tweets', 'Tweets & replies', 'Media', 'Likes'];
