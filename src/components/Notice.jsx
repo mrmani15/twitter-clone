@@ -7,13 +7,13 @@ function Notice() {
 			<div className='d-flex'>
 				<img
 					src={link}
-					alt='photo'
+					alt='logo-img'
 					height='40'
 					className='rounded-pill mr-2 ml-3'
 				/>
 				<img
 					src={link}
-					alt='photo'
+					alt='logo-img'
 					height='40'
 					className='rounded-pill ml-2'
 				/>

@@ -29,3 +29,5 @@ export const TweetIcon =
 export const NoticeNav = ['All', 'Mention']
 
 export const ProNav = ['Tweets', 'Tweets & replies', 'Media', 'Likes'];
+
+export const ExploreNav = ['For you', 'COVID-19', 'Trending', 'News', 'Sports', 'Fun', 'Entertainment']
