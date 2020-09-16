@@ -5,7 +5,7 @@ import { BsSearch } from 'react-icons/bs';
 function SearchBar() {
 	return (
 		<div
-			className=' p-2 mt-2 rounded-pill d-flex'
+			className=' p-2 mt-1 mb-1 rounded-pill d-flex'
 			style={{ backgroundColor: '#e6ecf0' }}
 		>
 			<BsSearch size='1.6rem' className='ml-2 mt-1' />

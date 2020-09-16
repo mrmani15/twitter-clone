@@ -6,12 +6,12 @@ import './App.css';
 // import Bookmarks from './Pages/Bookmarks';
 // import Profile from './Pages/Profile';
 // import Notifications from './Pages/Notifications';
-import Explore from './Pages/Explore'
+import Messages from './Pages/Messages'
 
 function App() {
 	return (
 		<div className='App'>
-      <Explore />
+      <Messages />
 		</div>
 	);
 }
