@@ -1,6 +1,6 @@
 import React from 'react';
-import SearchBar from '../components/SearchBar';
 
+import SearchBar from '../components/SearchBar';
 import { BiEnvelope } from 'react-icons/bi';
 import CreateLists from '../components/CreateLists';
 import { MessageDetail } from '../static/FollowList';
