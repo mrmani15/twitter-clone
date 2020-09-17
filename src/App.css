@@ -81,3 +81,17 @@
 	top: 0;
 	left: auto;
 }
+.input-field {
+	background-color: #e6ecf0;
+}
+
+.inp{
+	border: 0;
+	background-color: #e6ecf0;
+	border-bottom: 2px black solid;
+}
+.login-container{
+	height: 100vh;
+	width: 35%;
+	margin: auto;
+}
