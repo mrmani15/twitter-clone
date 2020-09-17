@@ -11,12 +11,12 @@ const Home = () => {
 				<div className='col-3'>
 					<Navbar />
 				</div>
-        <div className="col-5">
-          <MainArea />
-        </div>
-        <div className="col-4">
-          <HomeRightSideBar />
-        </div>
+				<div className='col-6'>
+					<MainArea />
+				</div>
+				<div className='col-3'>
+					<HomeRightSideBar />
+				</div>
 			</div>
 		</div>
   );

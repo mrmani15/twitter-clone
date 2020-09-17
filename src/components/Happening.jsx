@@ -19,7 +19,7 @@ function Happening() {
 						src='https://pbs.twimg.com/semantic_core_img/1255575536824233984/CiLy4der?format=jpg&name=240x240'
 						alt='covid'
 						className='covid-logo'
-						width='80px'
+						width='70px'
 						height='70px'
 					/>
 				</div>
@@ -55,8 +55,8 @@ function Happening() {
 					<img
 						src='https://pbs.twimg.com/semantic_core_img/1305411943423815680/Wrpav_Q0?format=jpg&name=120x120'
 						alt='suriya'
-						width='90px'
-						height='90px'
+						width='70px'
+						height='70px'
 						className='covid-logo'
 					/>
 				</div>

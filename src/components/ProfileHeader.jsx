@@ -7,7 +7,7 @@ const ProfileHeader = () => {
 				<img
 					src='https://pbs.twimg.com/profile_banners/1194515173010075649/1573630004/1500x500'
 					alt='Profile_header_photo'
-					height='250'
+					height='180'
 					width='100%'
 				/>
 			</div>

@@ -21,8 +21,13 @@
 	flex-direction: column;
 	justify-content: center;
 }
+.navigation-link{
+	display: block;
+	color: black;
+}
 .navigation-link :hover {
-	background-color: #1da1f2;
+	background-color: #c0d7d9;
+	color: #1da1f2;
 }
 .logo-image {
 	border-radius: 50%;
@@ -32,8 +37,7 @@
 	border-radius: 30%;
 }
 .home-container {
-	/* width: 100%; */
-	margin: 0 10%;
+	margin: 0 8%;
 }
 .prime-text {
 	color: #1da1f2;
@@ -71,4 +75,9 @@
 .font-size :hover{
   background-color: #afcad2;
   color: #1da1f2;
+}
+.fixed{
+	position: fixed;
+	top: 0;
+	left: auto;
 }

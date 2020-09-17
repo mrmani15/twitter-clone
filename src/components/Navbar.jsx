@@ -5,7 +5,7 @@ import HomeUserDetail from './HomeUserDetail';
 
 const Navbar = () => {
 	return (
-		<>
+		<div className='fixed'>
 			<div className='mt-1 mb-2 p-3 ml-3'>
 				<img src='/images/image.png' alt='logo' width='35px' />
 			</div>
@@ -14,7 +14,7 @@ const Navbar = () => {
 				Tweet
 			</button>
 			<HomeUserDetail />
-		</>
+		</div>
 	);
 };
 

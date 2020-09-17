@@ -5,7 +5,7 @@ import SearchBar from './SearchBar';
 
 function HomeRightSideBar() {
 	return (
-		<div>
+		<div className=''>
 			<SearchBar />
 			<h3 className='mt-5 font-weight-bolder'>What's happening</h3>
 			<Happening />
