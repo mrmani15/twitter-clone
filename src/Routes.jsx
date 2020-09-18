@@ -10,7 +10,6 @@ import Notifications from './Pages/Notifications';
 import Messages from './Pages/Messages';
 import Explore from './Pages/Explore';
 import Login from './Pages/Login';
-import Signup from './Pages/Signup'
 
 const Routes = () => {
 	return (
