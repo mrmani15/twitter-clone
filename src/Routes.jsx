@@ -16,6 +16,7 @@ const Routes = () => {
 		<BrowserRouter>
 			<Route exact path='/login' component={Login} />
 			<Route exact path='/Home' component={Home} />
+			<Route exact path='/' component={Home} />
 			<Route exact path='/Lists' component={Lists} />
 			<Route exact path='/Bookmarks' component={Bookmarks} />
 			<Route exact path='/Profile' component={Profile} />

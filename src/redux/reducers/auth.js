@@ -1,4 +1,5 @@
 import {USER_LOGIN_FAILURE, USER_LOGIN_SUCCESS} from '../constant'
+
 const initalState = {
   isAuthenticated: null,
   loading: true,
